@@ -15,7 +15,11 @@ public class JavaAbstract {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        //Создать по одному экземпляру классов точка, прямоугольник, окружность,
+        //сделать распечатку в консоль результатов вызова метода toString()
+        //вызвать у прям. и окр. метод масштабирования и вывести на печать
+        //состояние переменных (полей) экземпляров после масштабирования
     }
     
 }
